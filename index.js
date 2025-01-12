@@ -3,7 +3,7 @@ const {
   VERSION
 } = require(__dirname + "/config");
 const start = async () => {
-  Debug.info("Starting BOT-X " + VERSION);
+  Debug.info("Starting KING-MDV1 " + VERSION);
   try {
     await bot.init();
     await bot.DATABASE.sync();
