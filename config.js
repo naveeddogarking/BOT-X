@@ -7,17 +7,17 @@ global.audio = "www.youtube.com";
 global.video = "www.youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "ms.excelamadi@yahoo.com";
+global.email = "textnow1pak@gmail.com";
 global.location = "Rivers,Nigeria";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Xcelsama:Xcel@xcelsama.qpklf.mongodb.net/?retryWrites=true&w=majority&appName=Xcelsama";
 global.allowJids = process.env.ALLOW_JID || "true";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Excelsama/BOT-X";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m";
-global.website = process.env.GURL || " https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/jTJDVYj/Leonardo-Phoenix-A-vibrant-animestyle-illustration-of-a-young-2.jpg";
+global.github = process.env.GITHUB || "https://github.com/naveedbro/KING-MDV1";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w";
+global.website = process.env.GURL || " https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg";
 global.devs = "2347045035241","233268374753";
 global.sudo = process.env.SUDO || "2347045035241","233268374753";
 global.owner = process.env.OWNER_NUMBER || "2347045035241","233268374753";
@@ -50,10 +50,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`BOT-X ™`",
-  author: process.env.PACK_AUTHER || "Xcelsama",
+  author: process.env.PACK_AUTHER || "Usman",
   packname: process.env.PACK_NAME || "BOT-X",
   botname: process.env.BOT_NAME || "BOT-X",
-  ownername: process.env.OWNER_NAME || "Xcelsama",
+  ownername: process.env.OWNER_NAME || "Usman",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
